@@ -1,6 +1,6 @@
 ---
-title: "2.007"
-excerpt: "Final Bot<br/><img src='/images/500x300.png'>"
+title: "Walking Oligomeric Robotic Mobility System"
+excerpt: "Part of MIT Aero Astro Space Resources Workshop<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

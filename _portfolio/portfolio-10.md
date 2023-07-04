@@ -1,6 +1,6 @@
 ---
-title: "2.007"
-excerpt: "Final Bot<br/><img src='/images/500x300.png'>"
+title: "High School Robotics"
+excerpt: "Intake and shooting mechanisms. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

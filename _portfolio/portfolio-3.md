@@ -1,6 +1,6 @@
 ---
-title: "2.007"
-excerpt: "Final Bot<br/><img src='/images/500x300.png'>"
+title: "Roche UROP- Surgical Robot"
+excerpt: "Roll mechanism for surgical robot<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
