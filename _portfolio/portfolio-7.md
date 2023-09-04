@@ -1,6 +1,6 @@
 ---
 title: "Interchangable Left Atrial Appendage"
-excerpt: "Part of TTDD UROP<br/><img src='/images/500x300.png'>"
+excerpt: "Part of TTDD UROP<br/><img src='/images/IMG_4210.jpg'>"
 collection: portfolio
 ---
 

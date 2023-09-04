@@ -1,6 +1,6 @@
 ---
 title: "2.007"
-excerpt: "Final Bot<br/><img src='/images/500x300.png'>"
+excerpt: "Final Bot<br/><img src='/images/2007robot.jpg'>"
 collection: portfolio
 ---
 

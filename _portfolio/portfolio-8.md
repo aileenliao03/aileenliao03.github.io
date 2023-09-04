@@ -1,6 +1,6 @@
 ---
 title: "Chord-Innate"
-excerpt: "Self playing guitar. First prize winner at MakeMIT 2022. <br/><img src='/images/500x300.png'>"
+excerpt: "Self playing guitar. First prize winner at MakeMIT 2022. <br/><img src='/images/IMG_3581.mov'>"
 collection: portfolio
 ---
 
