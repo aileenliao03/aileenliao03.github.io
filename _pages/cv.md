@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-B.S. in EECS, MIT
+B.S. in EECS, MIT\
 B.S. in Mechanical Engineering, MIT
 
 Work experience

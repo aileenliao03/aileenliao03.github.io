@@ -1,7 +1,13 @@
 ---
 title: "Chord-Innate"
-excerpt: "Self playing guitar. First prize winner at MakeMIT 2022. <br/><img src='/images/IMG_3581.mov'>"
+excerpt: "Self playing guitar. First prize winner at MakeMIT 2022. <br/><img src='/images/guitar.jpg' width='50%' height = '50%'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Made self playing guitar. 
+
+Teamamtes: 
+- Ethan Chang
+- Garrett Blosen
+- Oliver Trevor
+- Greg Pylypovych

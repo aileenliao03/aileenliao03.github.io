@@ -1,7 +1,13 @@
 ---
-title: "Roche UROP- Surgical Robot"
-excerpt: "Roll mechanism for surgical robot<br/><img src='/images/22BF456E-4E0B-49E5-8E02-061F006773F7.jpg'>"
+title: "MakeMIT 2023"
+excerpt: "Grabinator 3000<br/><img src='/images/grabbinator.jpg' width='70%' height = '70%'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Designed a 3-DOF grasping robotic extension that mirrors user's movements. 
+
+Teamamtes: 
+- Ethan Chang
+- Garrett Blosen
+- Oliver Trevor
+- Andrew Woo

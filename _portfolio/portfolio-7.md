@@ -1,7 +1,7 @@
 ---
 title: "Interchangable Left Atrial Appendage"
-excerpt: "Part of TTDD UROP<br/><img src='/images/IMG_4210.jpg'>"
+excerpt: "Part of TTDD UROP<br/><img src='/images/IMG_4210.jpg' width='70%' height = '70%'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ Computationally and physically modeled the lateral atrial appendage (LAA) of the heart, designed detachable LAA mechanism, simulated blood flow through LAA with benchtop flow loop
