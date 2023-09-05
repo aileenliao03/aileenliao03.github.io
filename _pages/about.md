@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student at MIT double majoring in EECS (electrical engineering and computer science) and Mechanical Engineering. I am interested in mechatronics and robotics, especially for medical applications.
+I am a third year undergraduate student at MIT double majoring in EECS and Mechanical Engineering. I am interested in mechatronics and robotics, especially for medical + assistive applications.
