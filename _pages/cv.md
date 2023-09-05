@@ -16,29 +16,21 @@ B.S. in Mechanical Engineering, MIT
 
 Work experience
 ======
-* Robotics Intern (Summer 2023)
-  * Tesla
+* Tesla | Robotics Intern (Summer 2023)
 
-* Undergraduate Researcher (2022-present)
-  * MIT Biomimetic Robotics Lab
+* MIT Biomimetic Robotics Lab | Undergraduate Researcher (2022-present)
 
-* Undergraduate Researcher (2022-present)
-  * MIT Theraputic Technology Design & Development Lab
+* MIT Theraputic Technology Design & Development Lab | Undergraduate Researcher (2022-present)
 
-* Mechanical Project Lead (2022)
-  * MIT Aero Astro
+* MIT Aero Astro | Mechanical Project Lead (2022)
 
-* Robotics and Controls Intern (Summer 2022)
-  * Noah Medical
+* Noah Medical | Robotics and Controls Intern (Summer 2022)
 
-* Undergraduate Researcher (2021-2022)
-  * MIT Media Lab, Biomechatronics Group
+* MIT Media Lab, Biomechatronics Group | Undergraduate Researcher (2021-2022)
 
-* Research Intern (2018-2021)
-  * UCSD Cartilage Tissue Engineering Lab
+* UCSD Cartilage Tissue Engineering Lab | Research Intern (2018-2021)
 
-* Intern (Summer 2018)
-  * Intuition Robotics
+* Intuition Robotics | Intern (Summer 2018)
 
 Clubs
 ======
@@ -48,7 +40,7 @@ Clubs
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -57,6 +49,6 @@ Awards
 ======
 * Digi-Key Award, MakeMIT 2023
 * First Place, MakeMIT 2022
-* ASME Scholarship
+* ASME, SWE Scholarships
 * Saratoga High School Valedictorian 
   
