@@ -17,19 +17,12 @@ B.S. in Mechanical Engineering, MIT
 Work experience
 ======
 * Tesla, Robotics Intern (Summer 2023)
-
 * MIT Biomimetic Robotics Lab, Undergraduate Researcher (2022-present)
-
 * MIT Theraputic Technology Design & Development Lab, Undergraduate Researcher (2022-present)
-
 * MIT Aero Astro, Mechanical Project Lead (2022)
-
 * Noah Medical, Robotics and Controls Intern (Summer 2022)
-
 * MIT Media Lab- Biomechatronics Group, Undergraduate Researcher (2021-2022)
-
 * UCSD Cartilage Tissue Engineering Lab, Research Intern (2018-2021)
-
 * Intuition Robotics, Intern (Summer 2018)
 
 Clubs

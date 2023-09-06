@@ -1,6 +1,6 @@
 ---
 title: "Force Sensor Calibration Table + Delta Robot Revamp"
-excerpt: "Biomimetic Lab<br/><img src='/images/delta.jpg' width='70%' height = '70%'>"
+excerpt: "Biomimetic Lab<br/><img src='/images/delta.JPG' width='70%' height = '70%'>"
 collection: portfolio
 ---
 
