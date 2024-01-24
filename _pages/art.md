@@ -9,15 +9,15 @@ author_profile: true
 
 Hidden Stress
 ======
-<img src='/images/heart.jpg' width='70%' height = '70%'>
+<img src='/images/heart.jpg' width='50%' height = '50%'>
 
 Immortal Jellyfish
 ======
-<img src='/images/jellyfish.jpg' width='70%' height = '70%'>
+<img src='/images/jellyfish.jpg' width='50%' height = '50%'>
 
 
 Chapped
 ======
-<img src='/images/lips.jpg' width='70%' height = '70%'>
+<img src='/images/lips.jpg' width='50%' height = '50%'>
 
 
