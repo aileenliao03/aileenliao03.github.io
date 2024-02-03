@@ -31,3 +31,6 @@ Isabella Stewart Garden
 ====
 <img src='/images/garden.jpg' width='70%' height = '70%'>
 
+Circus
+====
+<img src='/images/circus.jpg' width='70%' height = '70%'>
