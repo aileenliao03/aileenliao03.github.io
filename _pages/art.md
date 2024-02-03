@@ -27,4 +27,7 @@ Seen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W19FnhNkaTI?si=873_H9TyvYVGN0Kp" frameborder="0" allowfullscreen></iframe>
 
 
+Isabella Stewart Garden
+====
+<img src='/images/garden.jpg' width='50%' height = '50%'>
 
