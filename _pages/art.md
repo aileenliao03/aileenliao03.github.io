@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Hidden Stress
-======
-<img src='/images/heart.jpg' width='70%' height = '70%'>
 
 Immortal Jellyfish
 ======
@@ -34,3 +31,7 @@ Isabella Stewart Garden
 Circus
 ====
 <img src='/images/circus.jpg' width='70%' height = '70%'>
+
+Hidden Stress
+======
+<img src='/images/heart.jpg' width='70%' height = '70%'>
