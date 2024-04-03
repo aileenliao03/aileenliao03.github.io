@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Hi, I like doing art for fun!
+Hi, I like doing art for fun!\
 <img src='/images/art_wall.jpg' width='70%' height = '70%'>
 
 Immortal Jellyfish
