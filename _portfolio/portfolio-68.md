@@ -1,6 +1,5 @@
 ---
-title: "Generative Adversarial Masks: Safeguarding Images from AI Models with
-Stealthy Perturbations"
+title: "Image Protection from AI Models"
 excerpt: "6.8300 Advances in Computer Vision<br/><img src='/images/cv.png' width='50%' height='50%'>"
 collection: portfolio
 ---
