@@ -8,7 +8,6 @@ Designed autonomous robot for competition.
 
 Teammates: 
 - Garrett Blosen
-- Oliver Trevor
 - Dan Ajayi
 - Livia Zhang
 - Ty Todd

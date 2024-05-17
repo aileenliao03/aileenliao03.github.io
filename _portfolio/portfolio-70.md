@@ -3,6 +3,7 @@ title: "Long Jump Robot"
 excerpt: "2.74 Bioinspired Robotics<br/><img src='/images/leg.jpg' width='50%' height='50%'>"
 collection: portfolio
 ---
+by Aileen Liao, Aimee Liu, Max Burns, Sophia Wang
 - Hardware design + integration
 
 
