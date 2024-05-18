@@ -1,12 +1,12 @@
 ---
-title: "Graph of Convex Sets for Trajectory Optimization on Spot"
-excerpt: "6.8210 Underactuated Robotics<br/><img src='/images/spot_traversing.png' width='50%' height='50%'>"
+title: "Image Protection from AI Models"
+excerpt: "6.8300 Advances in Computer Vision<br/><img src='/images/cv.png' width='50%' height='50%'>"
 collection: portfolio
 ---
-by Johannes Ihle, Aileen Liao, Lukas Molnar
+Generative Adversarial Masks: Safeguarding Images from AI Models with
+Stealthy Perturbations
+by Daniel Prakah-Asante,  Aileen Liao
 
+<img src='/images/alg.png' width='100%' height='100%'>
 
-Video: https://youtu.be/cigEIIFpSio \\
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cigEIIFpSio?si=JkurdtQg9reivoCS" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
+<img src='/images/full_cv.png' width='100%' height='100%'>

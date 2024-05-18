@@ -1,12 +1,12 @@
 ---
-title: "Image Protection from AI Models"
-excerpt: "6.8300 Advances in Computer Vision<br/><img src='/images/cv.png' width='50%' height='50%'>"
+title: "Cricothyroidotomy Device"
+excerpt: "2.75 Medical Device Design<br/><img src='/images/lung_cric_open.jpg' width='50%' height='50%'>"
 collection: portfolio
 ---
-Generative Adversarial Masks: Safeguarding Images from AI Models with
-Stealthy Perturbations
-by Daniel Prakah-Asante,  Aileen Liao
 
-<img src='/images/alg.png' width='100%' height='100%'>
+<img src='/images/lung_cric_open.jpg' width='100%' height='100%'>
 
-<img src='/images/full_cv.png' width='100%' height='100%'>
+Teammates
+- Max Burns
+- Abbie Shipper
+- Adam Pressel
