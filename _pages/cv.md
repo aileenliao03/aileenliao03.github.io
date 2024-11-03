@@ -44,7 +44,8 @@ Awards
 * Underactuated Robotics Outstanding Project Award
 * Eta Kappa Nu EECS Honor Society Committee Member
 * Pi Tau Sigma Mechanical Engineering Honor Society
-* NASA Big IDeas Best Technical Paper
+* MassRobotics Challenge 2nd Place
+* NASA Big Ideas Best Technical Paper
 * IEEE AeroAstro Best Conference Paper 
 * Digi-Key Award, MakeMIT 2023
 * First Place, MakeMIT 2022
