@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-B.S. in EECS, MIT\
+B.S. in Electrical Engineering and Computer Science, MIT\
 B.S. in Mechanical Engineering, MIT
 
 Work experience
 ======
-* Intuitive, Mechatronics Intern (Summer 2024)
 * MIT Biomimetic Robotics Lab, Undergraduate Researcher (2022-present)
+* Intuitive, Mechatronics Intern (Summer 2024)
 * Tesla, Robotics Intern (Summer 2023)
-* MIT Theraputic Technology Design & Development Lab, Undergraduate Researcher (2022-present)
+* MIT Theraputic Technology Design & Development Lab, Undergraduate Researcher (2022-2024)
 * MIT Aero Astro, Mechanical Project Lead (2022)
 * Noah Medical, Robotics and Controls Intern (Summer 2022)
 * MIT Media Lab- Biomechatronics Group, Undergraduate Researcher (2021-2022)
