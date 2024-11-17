@@ -40,12 +40,12 @@ acrylic
 
 ## Stitch
 chalk on concrete  
-<img src='/images/heart.jpg' width='70%'>
+<img src='/images/stitch.png' width='70%'>
 
 ## Flowers
 oil  
-<img src='/images/heart.jpg' width='70%'>
+<img src='/images/flowers.png' width='70%'>
 
 ## Sketch Practice
 graphite, charcoal  
-<img src='/images/heart.jpg' width='70%'>
+<img src='/images/sketch.png' width='70%'>
