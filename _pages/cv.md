@@ -32,13 +32,6 @@ Clubs
 * Co-President of Women in EECS
 * Medlink
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
 Awards
 ======
 * Underactuated Robotics Outstanding Project Award
