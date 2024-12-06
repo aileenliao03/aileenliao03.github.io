@@ -1,15 +1,10 @@
 ---
-title: "Long Jump Robot"
-excerpt: "2.74 Bioinspired Robotics<br/><img src='/images/leg.jpg' width='50%' height='50%'>"
+title: "Bounce Back: Effect of ACL on Jump Dynamics"
+excerpt: "2.617 Measurment and Instrumentation<br/><img src='/images/jumpdynamicsfront.png' width='50%' height='50%'>"
 collection: portfolio
 ---
-by Aileen Liao, Aimee Liu, Max Burns, Sophia Wang
-- Hardware design + integration
-
-
-<img src='/images/team7_274poster.png' width='100%' height='100%'>
-
-<img src='/images/fullgantry.jpg' width='100%' height='100%'>
+by Aileen Liao
 
 
 
+<img src='/images/jumpdynamics.png' width='100%' height='100%'>
