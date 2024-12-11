@@ -6,4 +6,4 @@ collection: portfolio
 ---
 by Aileen Liao and Ethan Chang
 
-[Download the PDF](/Users/aileenliao/aileenliao03.github.io/files/Deep_Learning_Blog.pdf)
+[Download the PDF](/files/Deep_Learning_Blog.pdf)
