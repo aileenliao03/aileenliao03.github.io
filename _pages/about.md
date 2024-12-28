@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate student at MIT double majoring in Electrical Engineering and Computer Science (EECS) and Mechanical Engineering. I am interested in robotics!
+I am a fourth year undergraduate/masters student at MIT double majoring in Electrical Engineering and Computer Science (EECS) and Mechanical Engineering. I am interested in learned controllers and embodied intelligence in robotics!

@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+M.Eng. in Electrical Engineering and Computer Science, MIT\
 B.S. in Electrical Engineering and Computer Science, MIT\
 B.S. in Mechanical Engineering, MIT
 
