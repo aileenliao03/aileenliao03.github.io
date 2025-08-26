@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-M.Eng. in Electrical Engineering and Computer Science, MIT\
+Ph.D. in Computer Science, UPenn\
 B.S. in Electrical Engineering and Computer Science, MIT\
 B.S. in Mechanical Engineering, MIT
 
 Work experience
 ======
-* MIT Biomimetic Robotics Lab, Undergraduate Researcher (2022-present)
+* FieldAI ML Research Intern (Summer 2025)
+* MIT Biomimetic Robotics Lab, Undergraduate Researcher (2022-2025)
 * Intuitive, Intern (Summer 2024)
 * MIT Theraputic Technology Design & Development Lab, Undergraduate Researcher (2022-2024)
 * Tesla, Robotics Intern (Summer 2023)
