@@ -36,6 +36,7 @@ Clubs
 
 Awards
 ======
+* University of Pennsylvania Named Doctoral Fellowship
 * Underactuated Robotics Outstanding Project Award
 * IEEE AeroAstro Best Conference Paper 
 * NASA Big Ideas Best Technical Paper
@@ -44,6 +45,8 @@ Awards
 * Pi Tau Sigma Mechanical Engineering Honor Society
 * Digi-Key Award, MakeMIT 2023
 * First Place, MakeMIT 2022
-* ASME, SWE Scholarships
+* ASME Mary T Drouin Memorial Scholarship
+* SWE Mary G Ross Memorial Endowment Scholarship
+* SWE Ester Williams Memorial Endowment Scholarship
 * Saratoga High School Valedictorian 
   
