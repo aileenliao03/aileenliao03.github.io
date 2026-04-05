@@ -13,10 +13,12 @@ Hi, I like doing art for fun!
 ## Algernon 
 (in progress) 
 graphite
+
 <img src='/images/algernon.png' width='70%'>
 
 ## Waiting
 graphite
+
 <img src='/images/waiting.png' width='70%'>
 
 
