@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 Ph.D. in Computer Science, UPenn\
+co-advised by Michael Posa and Dinesh Jayaraman\
+
 B.S. in Electrical Engineering and Computer Science, MIT\
 B.S. in Mechanical Engineering, MIT
 
@@ -36,6 +38,7 @@ Clubs
 
 Awards
 ======
+* NSF Graduate Research Fellowship
 * University of Pennsylvania Named Doctoral Fellowship
 * Underactuated Robotics Outstanding Project Award
 * IEEE AeroAstro Best Conference Paper 
