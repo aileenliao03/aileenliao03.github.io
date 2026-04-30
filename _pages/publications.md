@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Aileen Liao, Rachel Holladay, Dinesh Jayaraman, Michael Posa. VLM-Focus: Task-Relevant Scene Reduction for Planning and Control in Clutter. RSS. 2026. (under review)
-2. Aileen Liao, Dong Ki Kim, Max Smith, Ali-akbar Agha-mohammadi, and Shayegan Omidshafiei. Delay-Aware 	Diffusion Policy: Bridging the Observation–Execution Gap in Dynamic Tasks. IROS. 2026. (under 	review) 
+1. Aileen Liao, Rachel Holladay, Dinesh Jayaraman, Michael Posa. VLM-Focus: Task-Relevant Scene Reduction for Planning and Control in Clutter. CORL. 2026. (under review)
+2. Aileen Liao, Dong Ki Kim, Max Smith, Ali-akbar Agha-mohammadi, and Shayegan Omidshafiei. Delay-Aware 	Diffusion Policy: Bridging the Observation–Execution Gap in Dynamic Tasks. IROS. 2026. (under review) 
 3. Moonyoung Lee, Dong Ki Kim, Jai Krishna Bandi, Max Smith, Aileen Liao, Ali-akbar Agha-mohammadi, and 	Shayegan Omidshafiei. StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening. 	IROS. 2026. (under review)
 4. Keegan Mendez, Manisha Singh, Patrick Willoughby, Beatrice Ncho, Aileen Liao, Susan Su, Megan Lim, 	Elijah Lee, Mohamad Alkhouli, Hasan Alarouri,  Ellen T. Roche. Design and Validation of a High-	Fidelity Left Atrial Cardiac Simulator for the Study and Advancement of Left Atrial Appendage 	Occlusion. Cardiovascular Engineering and Technology. 2025. 16(3), 279-295.
 5. Jelvani, A., Nia, N. E., Kalyan, G., Yee, A. T., **Liao, A.**, Garcia, J. J., Raleigh, A. R., Miyazaki, S., Yamada, J., Schumacher, B. L., Chen, A. C., Masuda, K., & Sah, R. L. (2024). Site-specific and distinctive early patterns of articular cartilage surface imply progressive states of degeneration in adult rabbit femoral condyles with post-traumatic osteoarthritis. Orthopedic Research Society Annual Meeting, 49.
