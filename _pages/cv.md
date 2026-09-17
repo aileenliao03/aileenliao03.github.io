@@ -19,6 +19,7 @@ B.S. in Mechanical Engineering, MIT
 
 Work experience
 ======
+* NVIDIA GEAR LAB Intern (Fall 2026)
 * FieldAI ML Research Intern (Summer 2025)
 * MIT Biomimetic Robotics Lab, Undergraduate Researcher (2022-2025)
 * Intuitive, Intern (Summer 2024)
